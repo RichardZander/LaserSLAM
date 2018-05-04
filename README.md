@@ -12,5 +12,7 @@ Hardware Feature:[Copy from https://www.hokuyo-aut.jp/search/single.php?serial=1
 -> Accuracy(±30mm).* <br>
 -> Distance and angle data output with high angular resolution(0.352°). <br>
 -> High quality product under Total Quality Management. <br>
--> Designed, manufactured and-> High quality product under Total Quality Management. <br>
+-> Designed, manufactured and inspected by HOKUYO.  <br>
  * For distance above 1,000mm, accuracy is ±3%.
+
+<br><br>
